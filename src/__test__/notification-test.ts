@@ -3,11 +3,11 @@ import {sendNotification} from '../notification';
 
 const link: Link = {
 	brand: 'test:brand',
-	cartUrl: 'https://www.example.com/cartUrl',
+	cartUrl: 'https://www.google.com',
 	model: 'test:model',
 	price: 100,
 	series: 'test:series',
-	url: 'https://www.example.com/url'
+	url: 'https://www.google.com'
 };
 
 const store: Store = {
